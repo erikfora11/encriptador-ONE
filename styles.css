@@ -101,7 +101,7 @@ footer{
     padding: 0.5em;
 }
 
-@media screen and (max-width: 1174px) and (min-width:372px) {
+@media only screen and (max-width: 1720px) and (min-width:0px) {
     main{
         display: flex;
         flex-direction: column;
